@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
