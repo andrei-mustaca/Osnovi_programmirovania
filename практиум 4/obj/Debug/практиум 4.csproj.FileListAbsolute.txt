@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\source\repos\практиум 4\bin\Debug\практиум 4.exe.config
+C:\Users\Kab-31-13\source\repos\практиум 4\bin\Debug\практиум 4.exe
+C:\Users\Kab-31-13\source\repos\практиум 4\bin\Debug\практиум 4.pdb
+C:\Users\Kab-31-13\source\repos\практиум 4\obj\Debug\практиум 4.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\source\repos\практиум 4\obj\Debug\практиум 4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\source\repos\практиум 4\obj\Debug\практиум 4.exe
+C:\Users\Kab-31-13\source\repos\практиум 4\obj\Debug\практиум 4.pdb
