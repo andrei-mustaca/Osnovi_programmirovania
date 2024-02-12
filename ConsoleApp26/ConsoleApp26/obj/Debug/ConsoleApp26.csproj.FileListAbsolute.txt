@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb
