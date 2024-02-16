@@ -1,0 +1,7 @@
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\bin\Debug\ConsoleApp29.exe.config
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\bin\Debug\ConsoleApp29.exe
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\bin\Debug\ConsoleApp29.pdb
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\obj\Debug\ConsoleApp29.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\obj\Debug\ConsoleApp29.exe
+\\serv31\Для сохранения работ\215 группа\Мустяца Андрей\ConsoleApp29\obj\Debug\ConsoleApp29.pdb
