@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
