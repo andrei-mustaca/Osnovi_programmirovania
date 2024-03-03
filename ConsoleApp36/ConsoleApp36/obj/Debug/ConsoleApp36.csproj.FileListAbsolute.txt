@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
