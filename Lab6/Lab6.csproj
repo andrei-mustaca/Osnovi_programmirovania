@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FE17308C-D3C8-4264-BA43-49B049C71B16}</ProjectGuid>
+    <ProjectGuid>{C9D0BDE8-5B8B-4122-9FB5-E76F1538B522}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lab6</RootNamespace>
     <AssemblyName>Lab6</AssemblyName>
@@ -46,8 +46,11 @@
     <Compile Include="Cone.cs" />
     <Compile Include="Figure.cs" />
     <Compile Include="Frustum.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentS.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -11,12 +11,12 @@ namespace Lab6
         public string Name
         { get; set; }
         public int R1
-        { set;get; }
+        { set; get; }
         public int H
-        { set;get; }
-        public Figure(string name,int r1, int h)
+        { set; get; }
+        public Figure(string name, int r1, int h)
         {
-            Name=name;
+            Name = name;
             R1 = r1;
             H = h;
         }

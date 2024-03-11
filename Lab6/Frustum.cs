@@ -11,13 +11,13 @@ namespace Lab6
         private int r2;
         public int R2
         { set; get; }
-        public Frustum(string name,int r1,int h,int r2):base(name,r1,h)
+        public Frustum(string name, int r1, int h, int r2) : base(name, r1, h)
         {
             R2 = r2;
         }
         public override double S()
         {
-            return 3.14 * (R1 + R2) * Math.Sqrt(Math.Pow(R2-R1,2)+Math.Pow(H,2))+3.14+Math.Pow(R1,2)+3.14+Math.Pow(R2,2);
+            return 3.14 * (R1 + R2) * Math.Sqrt(Math.Pow(R2 - R1, 2) + Math.Pow(H, 2)) + 3.14 + Math.Pow(R1, 2) + 3.14 + Math.Pow(R2, 2);
         }
         public override double V()
         {
