@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\obj\Debug\Pract5.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\obj\Debug\Pract5.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\bin\Debug\Pract5.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\bin\Debug\Pract5.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\bin\Debug\Pract5.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\obj\Debug\Pract5.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract5\Pract5\obj\Debug\Pract5.pdb
