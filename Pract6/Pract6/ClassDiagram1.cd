@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pract6.Free" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Free.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pract6.FreeUsl" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAEAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FreeUsl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pract6.Program" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pract6.Software" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pract6.Trial" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAEQAAAAAAAAAAAAAgAAAEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Trial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
