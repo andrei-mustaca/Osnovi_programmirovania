@@ -43,7 +43,7 @@ namespace Practicum1Interface
                         foreach(var elem in list)
                         {
                             elem.Print();
-                            Console.WriteLine($"Площадь:{elem.P()},Периметр(длинна):{elem.S()}");
+                            Console.WriteLine($"Площадь:{elem.S()},Периметр(длинна):{elem.P()}");
                         }
                         break;
                     case '2':flag1 = false;
