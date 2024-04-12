@@ -5,3 +5,10 @@ C:\Users\andre\source\repos\Practicum1Interface\Practicum1Interface\obj\Debug\Pr
 C:\Users\andre\source\repos\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.csproj.CoreCompileInputs.cache
 C:\Users\andre\source\repos\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.exe
 C:\Users\andre\source\repos\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\bin\Debug\Practicum1Interface.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\bin\Debug\Practicum1Interface.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\bin\Debug\Practicum1Interface.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Practicum1Interface\Practicum1Interface\obj\Debug\Practicum1Interface.pdb
