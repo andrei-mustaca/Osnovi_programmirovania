@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\bin\Debug\Pract2Interface.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\bin\Debug\Pract2Interface.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\bin\Debug\Pract2Interface.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\obj\Debug\Pract2Interface.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\obj\Debug\Pract2Interface.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\obj\Debug\Pract2Interface.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Pract2Interface\Pract2Interface\obj\Debug\Pract2Interface.pdb
