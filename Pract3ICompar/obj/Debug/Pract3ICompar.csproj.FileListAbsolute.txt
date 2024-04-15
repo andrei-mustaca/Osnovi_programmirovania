@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\bin\Debug\Pract3ICompar.exe.config
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\bin\Debug\Pract3ICompar.exe
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\bin\Debug\Pract3ICompar.pdb
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\obj\Debug\Pract3ICompar.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\obj\Debug\Pract3ICompar.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\obj\Debug\Pract3ICompar.exe
+C:\Users\Kab-31-13\source\repos\Pract3ICompar\obj\Debug\Pract3ICompar.pdb
