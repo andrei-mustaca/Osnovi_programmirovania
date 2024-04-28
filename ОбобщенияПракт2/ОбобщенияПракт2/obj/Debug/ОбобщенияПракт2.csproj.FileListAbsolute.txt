@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\bin\Debug\ОбобщенияПракт2.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\bin\Debug\ОбобщенияПракт2.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\bin\Debug\ОбобщенияПракт2.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\obj\Debug\ОбобщенияПракт2.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\obj\Debug\ОбобщенияПракт2.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\obj\Debug\ОбобщенияПракт2.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\ОбобщенияПракт2\ОбобщенияПракт2\obj\Debug\ОбобщенияПракт2.pdb
