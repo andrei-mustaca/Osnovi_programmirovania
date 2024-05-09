@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\bin\Debug\Подготовка к экзамену.exe.config
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\bin\Debug\Подготовка к экзамену.exe
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\bin\Debug\Подготовка к экзамену.pdb
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\obj\Debug\Подготовка к экзамену.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\obj\Debug\Подготовка к экзамену.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\obj\Debug\Подготовка к экзамену.exe
+C:\Users\Kab-35-6\source\repos\Подготовка к экзамену\obj\Debug\Подготовка к экзамену.pdb
