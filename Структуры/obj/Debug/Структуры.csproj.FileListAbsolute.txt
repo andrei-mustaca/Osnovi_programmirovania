@@ -1,0 +1,7 @@
+K:\Структуры\bin\Debug\Структуры.exe.config
+K:\Структуры\bin\Debug\Структуры.exe
+K:\Структуры\bin\Debug\Структуры.pdb
+K:\Структуры\obj\Debug\Структуры.csproj.AssemblyReference.cache
+K:\Структуры\obj\Debug\Структуры.csproj.CoreCompileInputs.cache
+K:\Структуры\obj\Debug\Структуры.exe
+K:\Структуры\obj\Debug\Структуры.pdb
