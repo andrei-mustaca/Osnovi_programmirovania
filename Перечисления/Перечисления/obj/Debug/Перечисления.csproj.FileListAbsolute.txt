@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\bin\Debug\Перечисления.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\bin\Debug\Перечисления.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\bin\Debug\Перечисления.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\obj\Debug\Перечисления.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\obj\Debug\Перечисления.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\obj\Debug\Перечисления.exe
+C:\Users\andre\OneDrive\Документы\GitHub\Osnovi_programmirovania\Перечисления\Перечисления\obj\Debug\Перечисления.pdb
