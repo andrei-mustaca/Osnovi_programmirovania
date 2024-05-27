@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34320.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перечисления", "Перечисления\Перечисления.csproj", "{FF0506A0-8B9F-4B5C-9E37-EAF907D3735B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0506A0-8B9F-4B5C-9E37-EAF907D3735B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0506A0-8B9F-4B5C-9E37-EAF907D3735B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0506A0-8B9F-4B5C-9E37-EAF907D3735B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0506A0-8B9F-4B5C-9E37-EAF907D3735B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA8D690-7A36-4427-B8F0-660239A10928}
+	EndGlobalSection
+EndGlobal
