@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Resh\bin\Debug\Resh.exe.config
+C:\Users\Kab-35-6\source\repos\Resh\bin\Debug\Resh.exe
+C:\Users\Kab-35-6\source\repos\Resh\bin\Debug\Resh.pdb
+C:\Users\Kab-35-6\source\repos\Resh\obj\Debug\Resh.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Resh\obj\Debug\Resh.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Resh\obj\Debug\Resh.exe
+C:\Users\Kab-35-6\source\repos\Resh\obj\Debug\Resh.pdb
