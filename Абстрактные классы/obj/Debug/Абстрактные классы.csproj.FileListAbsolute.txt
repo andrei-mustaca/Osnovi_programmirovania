@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\bin\Debug\Абстрактные классы.exe.config
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\bin\Debug\Абстрактные классы.exe
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\bin\Debug\Абстрактные классы.pdb
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\obj\Debug\Абстрактные классы.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\obj\Debug\Абстрактные классы.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\obj\Debug\Абстрактные классы.exe
+C:\Users\Kab-31-13\source\repos\Абстрактные классы\obj\Debug\Абстрактные классы.pdb
